@@ -1,0 +1,7 @@
+.profile-picture-small-round {
+    display: inline-block;
+    width: 50px; /* Adjust width and height as needed */
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover; /* Ensures image fills the entire circle */
+}
